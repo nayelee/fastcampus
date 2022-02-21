@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+##Contributor
+
+- @@@
+
+## Tech Required (Tech Stack)
+
+- Create-next-app
+- Next.js
+- TypeScript
+- ESLint
+- Babel 설정(IE 11 대응)
+
+## docker
+
+- docker file을 이용해서 docker container
+- docker compose를 사용하고 있습니다.
 
 ## Getting Started
 
@@ -9,6 +24,8 @@ npm run dev
 # or
 yarn dev
 ```
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
